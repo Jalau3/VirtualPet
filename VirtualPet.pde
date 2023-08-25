@@ -29,6 +29,11 @@ curveVertex(200,100);
 vertex(245,250);
 endShape();
 
+noStroke();
+fill(5,169,252);
+rect(200,200,100,100);
+strokeWeight(2);
+
 //front leg
 fill(163,193,66); //fill light green
 rotate(PI/20.0);
