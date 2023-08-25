@@ -26,13 +26,8 @@ curveVertex(100,230);
 curveVertex(170,280);
 curveVertex(290,235);
 curveVertex(200,100);
-vertex(245,250);
 endShape();
 
-
-fill(5,169,252);
-rect(200,200,100,20);
-strokeWeight(2);
 
 //front leg
 fill(163,193,66); //fill light green
