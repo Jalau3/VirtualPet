@@ -29,9 +29,9 @@ curveVertex(200,100);
 vertex(245,250);
 endShape();
 
-noStroke();
+
 fill(5,169,252);
-rect(200,200,100,100);
+rect(200,200,100,20);
 strokeWeight(2);
 
 //front leg
@@ -89,4 +89,3 @@ endShape();
 fill(0,0,0); //fill black
 ellipse(285,190,5,5);
 }
-
